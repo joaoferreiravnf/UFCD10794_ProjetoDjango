@@ -1,0 +1,6 @@
+django>=3.2.14
+mysqlclient
+djangorestframework
+django-cors-headers
+pyyaml
+uritemplate
