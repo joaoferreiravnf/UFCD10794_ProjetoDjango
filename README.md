@@ -1,4 +1,4 @@
-IMDb Top 250 Scraper
+# IMDb Top 250 Scraper #
 
 This project is a Django-based web scraping application designed to collect detailed information about the IMDb Top 250 films. The gathered data is stored in a MySQL database, and the application provides a robust interface for users to apply multiple filters to the dataset.
 
